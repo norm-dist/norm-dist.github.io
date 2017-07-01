@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>崩壊3dについて色々と</title>
+    <link>https://norm-dist.github.io/</link>
+    <description>Recent content on 崩壊3dについて色々と</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>Copyright © 2017 Normal Distribution</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 12:14:18 +0900</lastBuildDate>
+    
+	<atom:link href="https://norm-dist.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>キアナオンリー限定補給の確率考察</title>
+      <link>https://norm-dist.github.io/post/kiana-pickup-201706/</link>
+      <pubDate>Sat, 01 Jul 2017 12:14:18 +0900</pubDate>
+      
+      <guid>https://norm-dist.github.io/post/kiana-pickup-201706/</guid>
+      <description>6月30日から始まったキアナオンリー限定補給のアイテム出現確率について考察していきます。計画的にご利用いただく参考になればと思っています。
+データをご提供してくださったくまねこさんに、この場を借りて改めて御礼申し上げます。いつもありがとうございます！
+今回の補給について まずは、今回の補給で出現するキャラクター関連アイテムを整理したいと思います。
+出現カード(分解時の欠片数)  月光(30) 聖女(18) 遊侠(18) 白練(7)  欠片の枚数 4〜6枚。(白練の欠片は含まれていない)
+今回考察する内容 今回は、前回と同様に「補給の試行回数と、得られるSキャラの欠片の枚数の関係」を考察していきます。
+結論だけ知りたい場合は、以下の「結果」をご確認ください。もう少しだけ詳しく知りたい場合は、「分析について」をご覧ください。(詳しい分析内容は需要がないと思いますので、省略します。)
+結果 水晶数ごとに獲得できる欠片数の分布 本記事のメインです。使用する水晶数ごとの欠片数の分布は、[こちら]()からご確認ください。グラフ上にカーソルと置いて、気になるあたりを探してみてください。
+結局、八重桜補給と比べてどうなの？ 今回の結果を見ると、
+分析についての補足 今回も、八重桜補給と同様に「ベイズ推論」を用いて分析を行いました。
+補給から直接欠片が出現することがあり、その場合は4〜6枚のいずれかが得られるのですが、ここを確率的に扱うとちょっとモデリングが煩雑になるので、今回は 5枚 で固定しました。
+実際は確率的に振る舞うものを定数で取り扱っているので、欠片数のばらつきはその分だけ抑えられた結果になります。
+確率的に振る舞うモデルは、時間がある時に少し挑戦してみようと思います。</description>
+    </item>
+    
+    <item>
+      <title>八重桜ピックアップの確率考察</title>
+      <link>https://norm-dist.github.io/post/yaezakura/</link>
+      <pubDate>Sat, 01 Jul 2017 11:31:36 +0900</pubDate>
+      
+      <guid>https://norm-dist.github.io/post/yaezakura/</guid>
+      <description>こちらにまとめました。</description>
+    </item>
+    
+  </channel>
+</rss>
